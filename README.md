@@ -1,2 +1,2 @@
 # keithandmariel
-This is for our personal website
+This is for our personal website.
